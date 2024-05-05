@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3724B51-687D-466A-9140-114B6B450A8D}|M16_Pr6(Videojuego_Desarrollador).vcxproj|D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\M16_Pr6(Videojuego_Desarrollador)-Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3724B51-687D-466A-9140-114B6B450A8D}|M16_Pr6(Videojuego_Desarrollador).vcxproj|solutionrelative:M16_Pr6(Videojuego_Desarrollador)-Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3724B51-687D-466A-9140-114B6B450A8D}|M16_Pr6(Videojuego_Desarrollador).vcxproj|D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\Corredores.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3724B51-687D-466A-9140-114B6B450A8D}|M16_Pr6(Videojuego_Desarrollador).vcxproj|solutionrelative:Corredores.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3724B51-687D-466A-9140-114B6B450A8D}|M16_Pr6(Videojuego_Desarrollador).vcxproj|D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\Corredores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3724B51-687D-466A-9140-114B6B450A8D}|M16_Pr6(Videojuego_Desarrollador).vcxproj|solutionrelative:Corredores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M16_Pr6(Videojuego_Desarrollador)-Main.cpp",
+              "DocumentMoniker": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\M16_Pr6(Videojuego_Desarrollador)-Main.cpp",
+              "RelativeDocumentMoniker": "M16_Pr6(Videojuego_Desarrollador)-Main.cpp",
+              "ToolTip": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\M16_Pr6(Videojuego_Desarrollador)-Main.cpp",
+              "RelativeToolTip": "M16_Pr6(Videojuego_Desarrollador)-Main.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T10:35:30.727Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Corredores.cpp",
+              "DocumentMoniker": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\Corredores.cpp",
+              "RelativeDocumentMoniker": "Corredores.cpp",
+              "ToolTip": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\Corredores.cpp",
+              "RelativeToolTip": "Corredores.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T08:44:23.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Corredores.h",
+              "DocumentMoniker": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\Corredores.h",
+              "RelativeDocumentMoniker": "Corredores.h",
+              "ToolTip": "D:\\Deures\\Curso 2023-2024\\M16\\M16_Pr6(Videojuego_Desarrollador)\\Corredores.h",
+              "RelativeToolTip": "Corredores.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T11:17:33.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
